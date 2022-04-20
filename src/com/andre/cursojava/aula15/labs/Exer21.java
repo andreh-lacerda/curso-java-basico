@@ -46,7 +46,6 @@ public class Exer21 {
 		
 		double valorPagoComDesconto = valorPagoSemDesconto - valorDesconto;
 		
-			
 				
 		System.out.println("O valor do combustivel sem desconto é R$: " + valorPagoSemDesconto);
 		System.out.println("O valor do desconto total é R$: " + valorDesconto);
